@@ -1,0 +1,8 @@
+{
+	"frenchRules" : "assets/txt_files/Rules/frenchRules.txt",
+	"englishRules" : "assets/txt_files/Rules/englishRules.txt",
+	"circleForms" : "assets/txt_files/forms/circleForms.txt",
+	"commonForms" : "assets/txt_files/forms/commonForms.txt",
+	"diamondForms" : "assets/txt_files/forms/diamondForms.txt",
+	"triangleForms" : "assets/txt_files/forms/triangleForms.txt"
+}

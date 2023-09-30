@@ -1,0 +1,30 @@
+The rules of this game are quite simple.
+
+First of all, choose your grid with its size.
+
+Then, you will have the choice between 3 forms to place.
+Choose one by entering either 1, 2 or 3.
+Then rotate it as you wish.
+
+To finish enter the coordinates x: a, b, c | y: A, B, C.
+If you can't place it here you lose a life!
+This can be due to several factors:
+	The form is off the grid!
+	There is already a form there!
+
+When the form is placed:
+
+If a line is filled, it is emptied and,
+all the pieces above it move down one space !
+If a column is filled, it is also emptied,
+but this time no further changes are made.
+Your points increase in proportion to the
+number of squares in the row or column.
+
+There are two ways to stop the game.
+
+You can write "exit" each time you can write,
+in which case you finish the round and save.
+
+Otherwise, the game stops automatically when your lives
+at the base of 3 are reduced to 0.

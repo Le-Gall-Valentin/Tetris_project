@@ -1,0 +1,30 @@
+Les règles de ce jeu sont plutôt simples.
+
+Choisissez avant tout votre grille avec sa taille.
+
+Ensuite, vous aurez le choix entre 3 pieces à placer.
+Choisissez-en une en entrant soit 1, soit 2, soit 3.
+Puis, faites la tourner à votre gré.
+
+Pour Finir entrez les coordonnés x : a, b, c | y : A, B, C.
+Si vous ne pouvez pas la placer ici vous perdez une vie !
+Cela peut être dû à plusieurs facteurs :
+	La piece est hors de la grille !
+	Il y a déjà une piece à cet endroit-là !
+
+Quand la piece est placée :
+
+Si une ligne est remplie, elle se vide et,
+toutes les pieces au-dessus descendent d'une case.
+Si une colonne est remplie, elle se vide également,
+mais cette fois-ci aucun autre changement ne se fait.
+Vos points augmentent proportionnellement au
+nombre de cases sur la ligne ou la colonne.
+
+Pour arrêter le jeu, 2 solutions.
+
+Vous pouvez écrire "exit" à chaque fois que vous pouvez
+écrire, dans ce cas finissez la manche et sauvegardez.
+
+Sinon le jeu s'arrête automatiquement lorsque vos vies
+à la base de 3 sont réduites à 0.
